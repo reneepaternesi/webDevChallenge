@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Planet Test should render Planet correctly 1`] = `
+<styled.div>
+  <Memo(l) />
+  <h1 />
+  <styled.div>
+    <styled.div>
+      <styled.span>
+        Rotation Period:
+      </styled.span>
+       
+    </styled.div>
+    <styled.div>
+      <styled.span>
+        Orbital Period:
+      </styled.span>
+       
+    </styled.div>
+    <styled.div>
+      <styled.span>
+        Climate:
+      </styled.span>
+       
+    </styled.div>
+    <styled.div>
+      <styled.span>
+        Gravity:
+      </styled.span>
+       
+    </styled.div>
+    <styled.div>
+      <styled.span>
+        Terrain:
+      </styled.span>
+       
+    </styled.div>
+    <styled.div>
+      <styled.span>
+        Surface Water:
+      </styled.span>
+       
+    </styled.div>
+    <styled.div>
+      <styled.span>
+        Population:
+      </styled.span>
+       
+    </styled.div>
+    <styled.div />
+    <styled.div>
+      <styled.span>
+        Residents:
+      </styled.span>
+      <styled.table>
+        <tbody />
+      </styled.table>
+    </styled.div>
+    <styled.div>
+      <styled.span>
+        Films:
+      </styled.span>
+      <styled.table>
+        <tbody />
+      </styled.table>
+    </styled.div>
+  </styled.div>
+  <styled.button
+    onClick={[Function]}
+  >
+     Go Back 
+  </styled.button>
+</styled.div>
+`;

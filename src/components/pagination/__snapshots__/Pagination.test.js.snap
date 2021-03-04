@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination Test should render Pagination correctly 1`] = `
+<styled.div>
+  <styled.button
+    className="prev-btn"
+    disabled={true}
+    onClick={[Function]}
+  >
+    «
+  </styled.button>
+  <styled.span
+    className="label"
+  >
+    Page 
+    1
+     of 
+    6
+  </styled.span>
+  <styled.button
+    className="next-btn"
+    disabled={false}
+    onClick={[Function]}
+  >
+    »
+  </styled.button>
+</styled.div>
+`;

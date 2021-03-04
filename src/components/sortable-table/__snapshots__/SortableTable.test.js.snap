@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SortableTable Test should render SortableTable correctly 1`] = `
+<styled.table>
+  <styled.thead>
+    <styled.tr>
+      <styled.th>
+        <styled.button
+          onClick={[Function]}
+          type="button"
+        >
+          Name
+        </styled.button>
+      </styled.th>
+      <styled.th>
+        <styled.button
+          onClick={[Function]}
+          type="button"
+        >
+          Rotation Period
+        </styled.button>
+      </styled.th>
+      <styled.th>
+        <styled.button
+          onClick={[Function]}
+          type="button"
+        >
+          Orbital Period
+        </styled.button>
+      </styled.th>
+      <styled.th>
+        <styled.button
+          onClick={[Function]}
+          type="button"
+        >
+          Diameter
+        </styled.button>
+      </styled.th>
+      <styled.th>
+        <styled.button
+          onClick={[Function]}
+          type="button"
+        >
+          Population
+        </styled.button>
+      </styled.th>
+    </styled.tr>
+  </styled.thead>
+  <styled.tbody>
+    <styled.tr
+      key="0"
+      onClick={[Function]}
+    >
+      <styled.td>
+        Geonosis
+      </styled.td>
+      <styled.td>
+        30
+      </styled.td>
+      <styled.td>
+        $
+        256
+      </styled.td>
+      <styled.td>
+        11370
+      </styled.td>
+      <styled.td>
+        100000000000
+      </styled.td>
+    </styled.tr>
+    <styled.tr
+      key="1"
+      onClick={[Function]}
+    >
+      <styled.td>
+        Utapau
+      </styled.td>
+      <styled.td>
+        27
+      </styled.td>
+      <styled.td>
+        $
+        351
+      </styled.td>
+      <styled.td>
+        12900
+      </styled.td>
+      <styled.td>
+        95000000
+      </styled.td>
+    </styled.tr>
+  </styled.tbody>
+</styled.table>
+`;
