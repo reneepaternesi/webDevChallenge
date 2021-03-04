@@ -1,9 +1,3 @@
-## Planets App
-
-### What is this
-This is a desktop web app to display planets info, created with React
-
-
 # Planets App
 
 
